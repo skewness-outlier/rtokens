@@ -85,5 +85,20 @@
     "logo": "rgusd.svg",
     "decimals": 18,
     "about": "Hold $1 USD peg, and deploy collateral to generate safe, on-chain yield to incentivize liquidity for itself and partners."
+  },
+  "0xe0e591388b0b19fa634ffe87e2d40485b8a13da6": {
+    "address": "0xe0e591388b0b19fa634ffe87e2d40485b8a13da6",
+    "name": "Saving USD",
+    "symbol": "SUSD",
+    "logo": "susd.svg",
+    "decimals": 18,
+    "about": "Governance should seek high yield sources while not compromising security and overall stability by tapping into high trusted DeFi products.",
+    "support": {
+      "email": "",
+      "url": ""
+    },
+    "social": {
+      "twitter": "https://x.com/SavingUSD"
+    }
   }
 }
